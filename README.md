@@ -19,14 +19,9 @@ I like competitive programming, AI/ML, and building things that solve real probl
 
 🏆 **Competitive programming:** Codeforces Specialist (1409) · 1000+ DSA problems solved
 
----
-
 💻 **Stack:** C++ · Python · TypeScript · FastAPI · React / Next.js · PostgreSQL · Firebase
-
----
 
 🏎️ **Off-screen:** watching F1, exploring new places 🌍
 
----
 
 📫 [LinkedIn](https://www.linkedin.com/in/siddh18/) · [Email](mailto:siddhjain1101@gmail.com)
